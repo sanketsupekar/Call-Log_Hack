@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "216273212505",
+    "firebase_url": "https://calllog-49d80-default-rtdb.firebaseio.com",
+    "project_id": "calllog-49d80",
+    "storage_bucket": "calllog-49d80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216273212505:android:82bf08cc651979c01f4d48",
+        "android_client_info": {
+          "package_name": "com.computerstudent.callloghack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216273212505-6nvhiv8df9o7g4du6mqgntehl873dsjr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6URK5eahHZiOM5hcsNANE3TvnGwNsL4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216273212505-6nvhiv8df9o7g4du6mqgntehl873dsjr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
